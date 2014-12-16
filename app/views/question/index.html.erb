@@ -1,0 +1,40 @@
+<div class="container">
+	<div id="question_div" class="row">
+		<h1 id="title" class="demo-section-title mbl"></h1>
+		<hr>
+		<p id="content"></p>
+	</div>
+
+	<div id="answer_div" class="row">
+		<h2 class="demo-panel-title mbl">Answer:</h2>
+		<p id="answer"></p>
+	</div>
+
+	<a id="next" class="btn btn-primary btn-large btn-block">Next</a>
+</div>
+
+<footer>Attribution: data is retrieved from Stack Exchange Network's API.</footer>
+
+<script>
+	function fillDivs(data){
+		$("#title").html(data["title"]);
+		$("#content").html(data["content"]);
+		$("#answer").html(data["answer"]);
+	}
+
+	function fetchData(){
+		$.ajax('question/random.json',{
+	    	type: 'GET',
+	    	success: function(data){
+	    		fillDivs(data);
+	    	}
+	    });
+	}
+
+	$('#next').click(function(){
+		fetchData();
+		$('html,body').animate({ scrollTop: 0 }, 'slow');
+	})
+
+	fetchData();
+</script>

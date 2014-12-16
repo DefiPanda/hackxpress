@@ -1,0 +1,199 @@
+/* line 10, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.ptn, .pvn, .pan {
+  padding-top: 0;
+}
+
+/* line 13, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.ptx, .pvx, .pax {
+  padding-top: 3px;
+}
+
+/* line 16, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pts, .pvs, .pas {
+  padding-top: 5px;
+}
+
+/* line 19, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.ptm, .pvm, .pam {
+  padding-top: 10px;
+}
+
+/* line 22, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.ptl, .pvl, .pal {
+  padding-top: 20px;
+}
+
+/* line 25, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.prn, .phn, .pan {
+  padding-right: 0;
+}
+
+/* line 28, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.prx, .phx, .pax {
+  padding-right: 3px;
+}
+
+/* line 31, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.prs, .phs, .pas {
+  padding-right: 5px;
+}
+
+/* line 34, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.prm, .phm, .pam {
+  padding-right: 10px;
+}
+
+/* line 37, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.prl, .phl, .pal {
+  padding-right: 20px;
+}
+
+/* line 40, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pbn, .pvn, .pan {
+  padding-bottom: 0;
+}
+
+/* line 43, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pbx, .pvx, .pax {
+  padding-bottom: 3px;
+}
+
+/* line 46, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pbs, .pvs, .pas {
+  padding-bottom: 5px;
+}
+
+/* line 49, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pbm, .pvm, .pam {
+  padding-bottom: 10px;
+}
+
+/* line 52, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pbl, .pvl, .pal {
+  padding-bottom: 20px;
+}
+
+/* line 55, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pln, .phn, .pan {
+  padding-left: 0;
+}
+
+/* line 58, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.plx, .phx, .pax {
+  padding-left: 3px;
+}
+
+/* line 61, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pls, .phs, .pas {
+  padding-left: 5px;
+}
+
+/* line 64, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.plm, .phm, .pam {
+  padding-left: 10px;
+}
+
+/* line 67, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.pll, .phl, .pal {
+  padding-left: 20px;
+}
+
+/* line 70, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mtn, .mvn, .man {
+  margin-top: 0px;
+}
+
+/* line 73, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mtx, .mvx, .max {
+  margin-top: 3px;
+}
+
+/* line 76, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mts, .mvs, .mas {
+  margin-top: 5px;
+}
+
+/* line 79, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mtm, .mvm, .mam {
+  margin-top: 10px;
+}
+
+/* line 82, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mtl, .mvl, .mal {
+  margin-top: 20px;
+}
+
+/* line 85, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mrn, .mhn, .man {
+  margin-right: 0px;
+}
+
+/* line 88, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mrx, .mhx, .max {
+  margin-right: 3px;
+}
+
+/* line 91, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mrs, .mhs, .mas {
+  margin-right: 5px;
+}
+
+/* line 94, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mrm, .mhm, .mam {
+  margin-right: 10px;
+}
+
+/* line 97, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mrl, .mhl, .mal {
+  margin-right: 20px;
+}
+
+/* line 100, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mbn, .mvn, .man {
+  margin-bottom: 0px;
+}
+
+/* line 103, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mbx, .mvx, .max {
+  margin-bottom: 3px;
+}
+
+/* line 106, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mbs, .mvs, .mas {
+  margin-bottom: 5px;
+}
+
+/* line 109, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mbm, .mvm, .mam {
+  margin-bottom: 10px;
+}
+
+/* line 112, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mbl, .mvl, .mal {
+  margin-bottom: 20px;
+}
+
+/* line 115, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mln, .mhn, .man {
+  margin-left: 0px;
+}
+
+/* line 118, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mlx, .mhx, .max {
+  margin-left: 3px;
+}
+
+/* line 121, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mls, .mhs, .mas {
+  margin-left: 5px;
+}
+
+/* line 124, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mlm, .mhm, .mam {
+  margin-left: 10px;
+}
+
+/* line 127, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_spaces.sass */
+.mll, .mhl, .mal {
+  margin-left: 20px;
+}

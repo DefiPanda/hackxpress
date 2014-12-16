@@ -1,0 +1,134 @@
+@font-face {
+  font-family: "Flat-UI-Icons-24";
+  src: url("/assets/Flat-UI-Icons-24.eot");
+  src: url("/assets/Flat-UI-Icons-24.eot") format("embedded-opentype"), url("/assets/Flat-UI-Icons-24.woff") format("woff"), url("/assets/Flat-UI-Icons-24.ttf") format("truetype"), url("/assets/Flat-UI-Icons-24.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+/* line 11, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+[data-icon]:before {
+  font-family: "Flat-UI-Icons-24";
+  content: attr(data-icon);
+  speak: none;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*Instead of a list of all class selectors,
+ *
+ *you can use the generic selector below, but it's slower:
+ *
+ *[class*="fui-"]:before { */
+/* line 27, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-video-24:before, .fui-time-24:before, .fui-settings-24:before, .fui-plus-24:before, .fui-new-24:before, .fui-menu-24:before, .fui-man-24:before, .fui-mail-24:before, .fui-lock-24:before, .fui-location-24:before, .fui-heart-24:before, .fui-eye-24:before, .fui-cross-24:before, .fui-cmd-24:before, .fui-checkround-24:before, .fui-checkmark-24:before, .fui-calendar-24:before, .fui-bubble-24:before, .fui-volume-24:before, .fui-camera-24:before {
+  font-family: "Flat-UI-Icons-24";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* line 35, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-video-24:before {
+  content: "\e000";
+}
+
+/* line 38, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-time-24:before {
+  content: "\e001";
+}
+
+/* line 41, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-settings-24:before {
+  content: "\e002";
+}
+
+/* line 44, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-plus-24:before {
+  content: "\e003";
+}
+
+/* line 47, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-new-24:before {
+  content: "\e005";
+}
+
+/* line 50, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-menu-24:before {
+  content: "\e006";
+}
+
+/* line 53, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-man-24:before {
+  content: "\e007";
+}
+
+/* line 56, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-mail-24:before {
+  content: "\e008";
+}
+
+/* line 59, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-lock-24:before {
+  content: "\e009";
+}
+
+/* line 62, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-location-24:before {
+  content: "\e00a";
+}
+
+/* line 65, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-heart-24:before {
+  content: "\e00b";
+}
+
+/* line 68, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-eye-24:before {
+  content: "\e00c";
+}
+
+/* line 71, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-cross-24:before {
+  content: "\e00d";
+}
+
+/* line 74, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-cmd-24:before {
+  content: "\e00e";
+}
+
+/* line 77, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-checkround-24:before {
+  content: "\e00f";
+}
+
+/* line 80, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-checkmark-24:before {
+  content: "\e010";
+}
+
+/* line 83, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-calendar-24:before {
+  content: "\e011";
+}
+
+/* line 86, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-bubble-24:before {
+  content: "\e012";
+}
+
+/* line 89, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-volume-24:before {
+  content: "\e013";
+}
+
+/* line 92, /Users/zhew/.rvm/rubies/ruby-2.1.2/lib/ruby/gems/2.1.0/gems/flatui-rails-0.0.4/vendor/assets/stylesheets/flat-ui/_icon-font-24.sass */
+.fui-camera-24:before {
+  content: "\e004";
+}

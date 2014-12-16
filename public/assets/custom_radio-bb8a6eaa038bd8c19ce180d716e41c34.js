@@ -1,0 +1,1 @@
+var toggleHandler=function(e){var e=e,o=$(e).find("input"),g=function(){o.eq(0).is(":checked")?$(e).removeClass("toggle-off"):$(e).addClass("toggle-off")};g(),o.eq(0).click(function(){$(e).toggleClass("toggle-off")}),o.eq(1).click(function(){$(e).toggleClass("toggle-off")})};$(document).ready(function(){$(".toggle").each(function(e,o){toggleHandler(o)})});
